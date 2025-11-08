@@ -77,7 +77,124 @@
 # print(results)
 
 
+# import math
+# print(abs(-10))
+# print(round(3.6))
+# print(pow(2,3))
+# print(math.sqrt(16))
+# print(math.factorial(4))
+ 
+# text = "backend"
+# text = "B" + text[1:]
+# print(text)
 
-        
-            
+# email = "jagdish@example.com"
+# username = email[:email.index('@')]
+# domain = email[7+1:email.index('.')]
+# rest = email.index('@')
+# print(username, domain)
+# print(rest)
+# import math
+# number = int(input("enter a number to find out sqrt"))
+# result = math.sqrt(number)
+# print(math.floor(result)) # if needed int instead of float
+# print(result)
+# import math
+# a = 3.14159
+# print(round(a,2))
 
+# a = "FAANG_BACKEND"
+# result = a[a.index('_')+1:a.index('E')]
+# print(result)
+
+
+# a = "developer"
+# print(a[::-1])
+# a = "BACKEND_AI_SYSTEMS"
+# result = a[8:10]
+# results = a[a.index('_')+1:10] # another method
+# print(result)
+# print(results)
+
+# age = int(input("enter your age"))
+# if(age>18):
+#     print("adult")
+# elif(age<18):
+#     result =str( 18 - age)
+#     print("wait for" + result +"years to become adult")
+# else:
+#     print("you are adult now")        
+
+# logged_in = True
+# access_given = False
+
+# if logged_in and access_given:
+#     print("welcome")
+# else:
+#     print("denied")    
+
+# user = "admin"
+# logged_in = True
+
+# if logged_in:
+#     if user == "admin":
+#         print("welcome admin")
+#     else:
+#         print("welcome user")
+# else:
+#     print("user not logged in")          
+# status = "Adult" if age >= 18 else "Minor"
+# print(status)
+# username = "jagdish"
+# password = "1234"
+
+# userinput = input("enter user name= ")
+# passwordinput = input("enter password= ")
+
+# if username == userinput and password == passwordinput:
+#     print("login successfull")
+# else:
+#     print("invalid cradentials")    
+# number = int(input("enter a number"))
+# result = "Even" if number%2 == 0 else "odd"
+# print(result)
+# number = int(input("enter a number "))
+# if number>0:
+#     print("positive")
+# elif number<0:
+#     print("negative")
+# else:
+#     print("zero")     
+# num1 = int(input("enter first number ")) 
+# num2 = int(input("enter second number ")) 
+# if num1>num2:
+#     print(f"biggest number is {num1}")
+# else:
+#     print(f"biggest number is {num2}")    
+# marks = int(input("Enter your marks"))
+# if marks>=90:
+#     print("A")
+# elif marks<=89 and marks>=75:
+#     print("B")
+# elif marks<=74 and marks>=50:
+#     print("C")
+# else:
+#     print("F")            
+
+# year = int(input("enter the year "))
+# if year%4 == 0:
+#     if year%100 == 0:
+#         if year%400 == 0:
+#             print("it is a leap year")
+#         else:
+#             print("it is not a leap year")
+#     else:
+#         print("it is a leap year")
+# else:
+#     print("it is not a leap year")     
+# if (year % 4 == 0 and year % 100 != 0) or (year % 400 == 0):
+#     print("Leap year")
+# else:
+#     print("Not a leap year")
+
+               
