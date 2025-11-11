@@ -196,5 +196,150 @@
 #     print("Leap year")
 # else:
 #     print("Not a leap year")
+# for i in range(51):
+#    if i == 37:
+#     break 
+#    print(i)
 
-               
+# for i in range(21):
+#     if i%2 == 0:
+#         print(i)
+#     continue    
+# users = ["sunil", "jagdish", "alex", "meena","error"]
+# target = "error"
+# for user in users:
+#     if user == target:
+#         continue
+#     print(f"prossesing user {user}")
+
+# def create_user():
+#     pass
+
+# for i in range(20):
+#     for j in range(20):
+#         product = i*j
+#         if product>20:
+#             break
+#         print(product)
+# person = {"name": 10, "role": 50, "exp": 2}
+# prev_values = 0
+# for key,values in person.items():
+    
+#     if values>prev_values:
+#         prev_values = values
+#         max_key = key
+
+# print(prev_values,max_key)    
+# for i in range(2, 10, 2):  # even numbers
+#     print(i)
+# for i in range(3):
+#     for j in range(3):
+#         print(f"({i},{j})", end=" ")
+#     print()
+
+# person = {"name": 10, "role": 50, "exp": 2}
+# for index,(key,values) in enumerate(person.items()):
+#     print(index,key,values)
+
+# i=1
+# while i <= 30 :
+#     if i%2 ==0:
+#         print(i)
+#     i+=1    
+
+# while True:
+#     username= input("enter names ")
+#     if username == "stop":
+#         break
+
+  
+# a=[[1,2],[3,4],[5,6]]
+# for i in a:
+#     for j in i:
+#         print(j)
+
+# a ="FANNG"
+# for index,value in enumerate(a):
+#     print(index,value)
+
+# user = {
+#     "name": "Jagdish",
+#     "age": 22,
+#     "skills": {
+#         "languages": ["Python", "C++", "SQL"],
+#         "frameworks": ["FastAPI", "Django"]
+#     }
+# }
+# for key,values in user.items():
+#     print(key,values)
+#     if isinstance(values,dict):
+#       for keys,value in values.items():
+#         print(keys,value)
+#         if isinstance(value,list):
+#            for languages in value:
+#               print(languages)
+
+# a=[1,2,3,4]
+# print(a[:4])
+
+# users = [
+#     {"name": "Alice", "age": 25, "role": "dev"},
+#     {"name": "Bob", "age": 30, "role": "tester"},
+#     {"name": "Charlie", "age": 28, "role": "manager"}
+# ]
+# for user in users:
+#     results=[]
+#     if user['role'] == 'dev':
+#         print(f"Developer Found:{user["name"]} ({user["age"]} years old)")
+# def greet(name):
+#     print(f"hello,good morning {name}")   
+
+# greet("jagdish")     
+# def sum(a,b):
+#     return a+b
+
+# result = sum(10,20)
+# print(result)
+
+# def square(num):
+#     return num**2 # another method num*num
+
+# result = square(10)
+# print(result)
+# def calculate_area(length,width):
+#     return length*width
+
+# area = calculate_area(10,20)
+# print(area)
+# def is_even(num):
+#     return "True" if num%2 == 0 else "False"
+
+# result = is_even(4)
+# print(result)
+# def factorial(num):
+#       if num == 0:
+#             return 1
+#       else:
+#             return num*factorial(num-1)
+# # def factorial(num):
+# #         result = 1
+# #         for i in range(1,num+1):
+# #             result *= i
+# #         return result
+
+# answer = factorial(5)   
+# print(answer)   
+
+
+# def greet_user(name, lang):
+#     if lang.lower() == "eng":
+#       text = "Good morning"
+#     elif lang.lower() == "hin":
+#       text = "shubh munjane"  
+#     else:
+#        return("select proper lang")  
+    
+#     return (f"{text} {name}")
+
+# result = greet_user("jagdish","hin")
+# print(result)
