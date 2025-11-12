@@ -343,3 +343,109 @@
 
 # result = greet_user("jagdish","hin")
 # print(result)
+# def user_profile(name,age=18,role="student"):
+#     print(f"{name} is a {role} and {age} years old")
+
+
+# user_profile(name="Jagdish",age=20)
+# def multiply(*nums):
+#     product=1
+#     for i in nums:
+#         product = product*i
+#     print(product)
+
+# multiply(2,2,2)    
+
+# def config_settings(**settings):
+#     for key,value in settings.items():
+#         print(key,value)
+
+# config_settings(name = "jagdish" , age = "20" , role = "student")
+
+# def math_ops(a, b):
+#     sum = a+b
+#     diff = a-b
+#     mul = a*b
+#     return sum,diff,mul
+
+# add,dif,mul = math_ops(20,10)
+# print(add,dif,mul)
+
+# def outer():
+#     def inner():
+#         print("hello from inner!")
+#     inner()
+
+# outer() 
+ #Importent  
+# cube = lambda x:x**2*x 
+# print(cube(4))
+# degrees = [0, 20, 37, 100]
+# Fahrenheit = list(map(lambda x:x*1.8+32,degrees))
+# for i in Fahrenheit:
+#  print(f"{i}F")
+# nums = [10, 60, 45, 90, 30]
+# output_nums = list(filter(lambda x: x>50 , nums))
+# print(output_nums)
+# from functools import reduce
+# nums = [2, 3, 4, 5]
+# mul = reduce(lambda a,b : a*b , nums)
+# print(mul)
+# keys = ["id", "name", "age"]
+# values = [101, "Jagdish", 22]
+# result = {key: value for key,value in zip(keys,values)}
+# print(result)
+#Banking program
+def show_balance(balance):
+    print(f"your balance is ${balance}")
+
+def deposit():
+    amount = float(input("enter amount to deposit: "))
+
+    if amount<=0 :
+        print("negetive balance not allowed")
+        return 0
+    else:
+        return amount    
+
+
+def withdraw(balance):
+    debit = float(input("enter amount to withdraw "))
+
+    if debit>balance:
+        print("insufficient funds")
+        return 0
+    elif debit<0:
+        print("negative is not allowed")
+        return 0
+    else:
+        return debit  
+
+
+def main():
+
+    balance =0
+    is_runnig= True
+
+    while is_runnig:
+        print("banking program")
+        print("1. to show Blance")
+        print("2.Deposit")
+        print("3.Withdraw")
+        print("4.Exit")
+
+    choice = input("enter your choice (1-4): ")
+
+    if choice == '1':
+        show_balance(balance)
+    elif choice == '2':
+        balance += deposit()
+    elif choice == '3':
+        balance -= withdraw(balance)
+    else:
+        is_runnig = False            
+
+print("Thank you have a nice day")      
+
+if __name__ == '__main__':
+   main()
