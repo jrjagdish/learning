@@ -396,56 +396,114 @@
 # result = {key: value for key,value in zip(keys,values)}
 # print(result)
 #Banking program
-def show_balance(balance):
-    print(f"your balance is ${balance}")
+# def show_balance(balance):
+#     print(f"your balance is ${balance}")
 
-def deposit():
-    amount = float(input("enter amount to deposit: "))
+# def deposit():
+#     amount = float(input("enter amount to deposit: "))
 
-    if amount<=0 :
-        print("negetive balance not allowed")
-        return 0
-    else:
-        return amount    
-
-
-def withdraw(balance):
-    debit = float(input("enter amount to withdraw "))
-
-    if debit>balance:
-        print("insufficient funds")
-        return 0
-    elif debit<0:
-        print("negative is not allowed")
-        return 0
-    else:
-        return debit  
+#     if amount<=0 :
+#         print("negetive balance not allowed")
+#         return 0
+#     else:
+#         return amount    
 
 
-def main():
+# def withdraw(balance):
+#     debit = float(input("enter amount to withdraw "))
 
-    balance =0
-    is_runnig= True
+#     if debit>balance:
+#         print("insufficient funds")
+#         return 0
+#     elif debit<0:
+#         print("negative is not allowed")
+#         return 0
+#     else:
+#         return debit  
 
-    while is_runnig:
-        print("banking program")
-        print("1. to show Blance")
-        print("2.Deposit")
-        print("3.Withdraw")
-        print("4.Exit")
 
-    choice = input("enter your choice (1-4): ")
+# def main():
 
-    if choice == '1':
-        show_balance(balance)
-    elif choice == '2':
-        balance += deposit()
-    elif choice == '3':
-        balance -= withdraw(balance)
-    else:
-        is_runnig = False            
+#     balance =0
+#     is_runnig= True
 
-print("Thank you have a nice day")      
+#     while is_runnig:
+#         print("banking program")
+#         print("1. to show Blance")
+#         print("2.Deposit")
+#         print("3.Withdraw")
+#         print("4.Exit")
 
-if __name__ == '__main__':
-   main()
+#     choice = input("enter your choice (1-4): ")
+
+#     if choice == '1':
+#         show_balance(balance)
+#     elif choice == '2':
+#         balance += deposit()
+#     elif choice == '3':
+#         balance -= withdraw(balance)
+#     else:
+#         is_runnig = False            
+
+# print("Thank you have a nice day")      
+
+# if __name__ == '__main__':
+#    main()
+
+# try:
+#     a = int(input("enter a number: "))
+#     y = 10/a
+#     print(f"result : {y}")
+# except ZeroDivisionError:
+#     print("can't divide by zero")
+# except ValueError:
+#     print("Must be numbers")  
+# except KeyboardInterrupt:
+#     print("stoping the program")         
+# try:
+#   with open('students.txt' , 'x+') as f:
+#     f.write("Messi")
+#     f.write("Virat")
+#     f.write("Dhoni")
+#     f.seek(0)
+#     output = f.read()
+#     print(output)
+  
+# except Exception as e:
+#   print("unable to create the file",e) 
+# except FileExistsError:
+#   print("File exists alredy")  
+# else:
+#   print("file created succsessfully")   
+
+# try:
+#   file = open("firstfile.txt", 'r+')
+#   file.write("This is my first file created by me")
+#   file.seek(0)
+#   content = file.read()
+#   print(content)
+#   file.close()
+# except Exception as e:
+#   print("Error occuered ",e)  
+# else:
+#   print("the file is working good")  
+# finally:
+#   print('all is well')  
+
+# with open("firstfile.txt",'r+') as f:
+    
+#     f.write("second line by using with")
+#     f.seek(0)
+#     for i in f:
+#         print(i.strip())
+    
+# import os
+# if os.path.exists('firstfile.txt'):
+#     os.remove('firstfile.txt')
+#     print("removed succsessfully")
+# else:
+#     print("not found")    
+# age = int(input("enter age: "))
+# if age<18:
+#     raise ValueError("You must be 18+")
+ 
