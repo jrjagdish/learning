@@ -507,3 +507,16 @@
 # if age<18:
 #     raise ValueError("You must be 18+")
  
+# import argparse
+# parser =argparse.ArgumentParser()
+
+# parser.add_argument('--name')
+# parser.add_argument('--country',type=str)
+
+# args = parser.parse_args()
+
+# print(f"hello {args.name} from {args.country}")
+
+# import os
+# print(os.getenv('id'))
+

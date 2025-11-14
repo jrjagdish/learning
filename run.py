@@ -12,14 +12,14 @@
 
 # FILE HANDLING
 
-# lines = ["Jagdish\n", "Backend\n", "Developer\n"]
+lines = ["Jagdish\n", "Backend\n", "Developer\n"]
 
-# with open('students.txt','w') as f:
-#     f.writelines(lines)
+with open('students.txt','w') as f:
+    f.writelines(lines)
 
-# with open('students.txt','r') as f:
-#     for i in f:
-#         print(i.strip())
+with open('students.txt','r') as f:
+    print(f.readline().strip())
+    print(f.read())
 
 # import json
 
@@ -128,38 +128,38 @@
     
 # print(result)    
         
-def sorted_squares(nums: list[int]) -> list[int]:
-    n = len(nums)
-    # 1. Initialize result array and pointers
-    result = [0] * n  # Initialize result array of size n with zeros
-    left = 0
-    right = n - 1
-    insert_pos = n - 1
+# def sorted_squares(nums: list[int]) -> list[int]:
+#     n = len(nums)
+#     # 1. Initialize result array and pointers
+#     result = [0] * n  # Initialize result array of size n with zeros
+#     left = 0
+#     right = n - 1
+#     insert_pos = n - 1
     
-    # 2. Write the while loop based on the logic above
-    while left <= right:
-        # Compare absolute values, which corresponds to the squared values
-        left_result = nums[left]**2
-        right_result = nums[right]**2
-        if left_result > right_result:
-            result[insert_pos] = left_result
-            left += 1
-            insert_pos -= 1
-        elif right_result >left_result:
-            result[insert_pos] = right_result
-            right -= 1
-            insert_pos -= 1 
-        else:
-            result[insert_pos] = left_result
-            insert_pos -=1
-            left +=1      
-        # Finish the code block below
-        # ... 
+#     # 2. Write the while loop based on the logic above
+#     while left <= right:
+#         # Compare absolute values, which corresponds to the squared values
+#         left_result = nums[left]**2
+#         right_result = nums[right]**2
+#         if left_result > right_result:
+#             result[insert_pos] = left_result
+#             left += 1
+#             insert_pos -= 1
+#         elif right_result >left_result:
+#             result[insert_pos] = right_result
+#             right -= 1
+#             insert_pos -= 1 
+#         else:
+#             result[insert_pos] = left_result
+#             insert_pos -=1
+#             left +=1      
+#         # Finish the code block below
+#         # ... 
 
         
-    return result
+#     return result
     
-answer = sorted_squares([-4, -1, 0, 3, 10])   
-print(answer) 
+# answer = sorted_squares([-4, -1, 0, 3, 10])   
+# print(answer) 
         
      

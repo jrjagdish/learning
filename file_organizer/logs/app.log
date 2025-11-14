@@ -1,0 +1,493 @@
+2025-11-14 20:24:23,550 - INFO - Application started
+2025-11-14 20:30:23,441 - ERROR - Source folder not found D:/Downloads
+2025-11-14 20:31:59,636 - ERROR - Source folder not found Downloads
+2025-11-14 20:33:24,213 - ERROR - Source folder not found D:\Downloads
+2025-11-14 20:33:39,842 - ERROR - Source folder not found D:Downloads
+2025-11-14 20:33:47,249 - ERROR - Source folder not found D:/Downloads
+2025-11-14 20:36:36,618 - INFO - Found 478 files in source folder
+2025-11-14 20:36:36,619 - INFO - Application started
+2025-11-14 20:40:24,815 - INFO - Found 478 files in source folder
+2025-11-14 20:40:24,816 - INFO - Application started
+2025-11-14 20:46:29,449 - INFO - Found 478 files in source folder
+2025-11-14 20:46:29,450 - INFO - Application started
+2025-11-14 20:51:32,321 - INFO - Found 478 files in source folder
+2025-11-14 20:54:58,191 - INFO - Found 478 files in source folder
+2025-11-14 20:54:58,196 - INFO - Moved: 1 Article  -  by Swami on Sanatana Dharma (1).pdf to Documents
+2025-11-14 20:54:58,201 - INFO - Moved: 1 Article  -  by Swami on Sanatana Dharma (2).pdf to Documents
+2025-11-14 20:54:58,202 - INFO - Moved: 1 Article  -  by Swami on Sanatana Dharma (3).pdf to Documents
+2025-11-14 20:54:58,203 - INFO - Moved: 1 Article  -  by Swami on Sanatana Dharma.pdf to Documents
+2025-11-14 20:54:58,206 - INFO - Moved: 1.jpg to Images
+2025-11-14 20:54:58,209 - INFO - Moved: 10.jpg to Images
+2025-11-14 20:54:58,211 - INFO - Moved: 11.jpg to Images
+2025-11-14 20:54:58,213 - INFO - Moved: 12.+Indirect+Recursion.pdf to Documents
+2025-11-14 20:54:58,215 - INFO - Moved: 12.jpg to Images
+2025-11-14 20:54:58,216 - INFO - Moved: 13.+Nested+Recursion.pdf to Documents
+2025-11-14 20:54:58,219 - INFO - Moved: 13th dec.pdf to Documents
+2025-11-14 20:54:58,222 - INFO - Moved: 14.+Sum+of+N+.pdf to Documents
+2025-11-14 20:54:58,224 - INFO - Moved: 146.Tree.pdf to Documents
+2025-11-14 20:54:58,226 - INFO - Moved: 15.+Factorial.pdf to Documents
+2025-11-14 20:54:58,229 - INFO - Moved: 16.+Power.pdf to Documents
+2025-11-14 20:54:58,231 - INFO - Moved: 1673709461735ZF6gF9aIKPTyzNws.pdf to Documents
+2025-11-14 20:54:58,235 - INFO - Moved: 1677592767589Mq5jpFKntTEAv5Qt.pdf to Documents
+2025-11-14 20:54:58,238 - INFO - Moved: 16th dec.pdf to Documents
+2025-11-14 20:54:58,239 - INFO - Moved: 17.+Taylor+Series.pdf to Documents
+2025-11-14 20:54:58,242 - INFO - Moved: 18.+Tayloer+Series+Iterative.pdf to Documents
+2025-11-14 20:54:58,244 - INFO - Moved: 18.+Taylor (1).pdf to Documents
+2025-11-14 20:54:58,247 - INFO - Moved: 18.+Taylor.pdf to Documents
+2025-11-14 20:54:58,250 - INFO - Moved: 19.+Fibonacci.pdf to Documents
+2025-11-14 20:54:58,251 - INFO - Moved: 19th dec.pdf to Documents
+2025-11-14 20:54:58,254 - INFO - Moved: 2.jpg to Images
+2025-11-14 20:54:58,258 - INFO - Moved: 20.+Combination.pdf to Documents
+2025-11-14 20:54:58,259 - INFO - Moved: 21.+Tower+of+Hanoi.pdf to Documents
+2025-11-14 20:54:58,263 - INFO - Moved: 2102111482_AFSB_CALLLETTER.pdf to Documents
+2025-11-14 20:54:58,267 - INFO - Moved: 218.StackUsingArrayC++.txt to Documents
+2025-11-14 20:54:58,274 - INFO - Moved: 21_221_510522076.pdf to Documents
+2025-11-14 20:54:58,276 - INFO - Moved: 271.TreeClassUsingSTLQueueC++.txt to Documents
+2025-11-14 20:54:58,280 - INFO - Moved: 278.LevelOrderTraversalC++.txt to Documents
+2025-11-14 20:54:58,283 - INFO - Moved: 289.BSTInsertInorder&SearchC++.txt to Documents
+2025-11-14 20:54:58,286 - INFO - Moved: 29.+Insert.pdf to Documents
+2025-11-14 20:54:58,291 - INFO - Moved: 291.RecursiveInsert&DeleteonBSTC++.txt to Documents
+2025-11-14 20:54:58,294 - INFO - Moved: 2914_28022023.pdf to Documents
+2025-11-14 20:54:58,297 - INFO - Moved: 293.BSTfromPreorderUsingSTLStackC++ (1).txt to Documents
+2025-11-14 20:54:58,300 - INFO - Moved: 293.BSTfromPreorderUsingSTLStackC++.txt to Documents
+2025-11-14 20:54:58,303 - INFO - Moved: 298.LL&RRRotationonAVLTreeC++.txt to Documents
+2025-11-14 20:54:58,306 - INFO - Moved: 299.RR&RLRotationonAVLTreeC.pdf to Documents
+2025-11-14 20:54:58,309 - INFO - Moved: 3 Article by Swami - The self made God of Sanathana Dharma and His self made creation (1).pdf to Documents
+2025-11-14 20:54:58,311 - INFO - Moved: 3 Article by Swami - The self made God of Sanathana Dharma and His self made creation (2).pdf to Documents
+2025-11-14 20:54:58,312 - INFO - Moved: 3 Article by Swami - The self made God of Sanathana Dharma and His self made creation.pdf to Documents
+2025-11-14 20:54:58,316 - INFO - Moved: 3 Month Study Plan.pdf to Documents
+2025-11-14 20:54:58,319 - INFO - Moved: 3.jpg to Images
+2025-11-14 20:54:58,322 - INFO - Moved: 301.DeletionfromAVLTreeWithRotationC++.txt to Documents
+2025-11-14 20:54:58,325 - INFO - Moved: 32.+LinearSearch.pdf to Documents
+2025-11-14 20:54:58,328 - INFO - Moved: 4.jpg to Images
+2025-11-14 20:54:58,331 - INFO - Moved: 5 Article by Swami - Guru in Sanatana Dharma.pdf to Documents
+2025-11-14 20:54:58,336 - INFO - Moved: 5 questions.mp4 to Videos
+2025-11-14 20:54:58,340 - INFO - Moved: 5.jpg to Images
+2025-11-14 20:54:58,341 - INFO - Moved: 6 Article - The Rarity of Human Birth in Sanathana Dharma (1).pdf to Documents
+2025-11-14 20:54:58,343 - INFO - Moved: 6 Article - The Rarity of Human Birth in Sanathana Dharma.pdf to Documents
+2025-11-14 20:54:58,346 - INFO - Moved: 6.2 practical (1).pdf to Documents
+2025-11-14 20:54:58,349 - INFO - Moved: 6.2 practical.pdf to Documents
+2025-11-14 20:54:58,352 - INFO - Moved: 6.jpg to Images
+2025-11-14 20:54:58,356 - INFO - Moved: 6879465454772022_07_11_09_52_08.docx to Documents
+2025-11-14 20:54:58,359 - INFO - Moved: 7.jpg to Images
+2025-11-14 20:54:58,362 - INFO - Moved: 74.+Reverse+LL.pdf to Documents
+2025-11-14 20:54:58,365 - INFO - Moved: 8.jpg to Images
+2025-11-14 20:54:58,368 - INFO - Moved: 84cd2a9fbc6cbd5522b2f048a56703a8.jpg to Images
+2025-11-14 20:54:58,371 - INFO - Moved: 9.jpg to Images
+2025-11-14 20:54:58,376 - INFO - Moved: aadhar.jpeg to Images
+2025-11-14 20:54:58,381 - INFO - Moved: Aathma Rama Aananda Ramana _ Suprabha KV [ ezmp3.cc ].mp3 to others
+2025-11-14 20:54:58,385 - INFO - Moved: Accel.docx to Documents
+2025-11-14 20:54:58,388 - INFO - Moved: adam-winger-KVVjmb3IIL8-unsplash.jpg to Images
+2025-11-14 20:54:58,391 - INFO - Moved: add-product.html to others
+2025-11-14 20:54:58,394 - INFO - Moved: alexander-andrews--Bq3TeSBRdE-unsplash.jpg to Images
+2025-11-14 20:54:58,396 - INFO - Moved: Anjana_ Mignon  Offer Letter.docx to Documents
+2025-11-14 20:54:58,399 - INFO - Moved: app.py to others
+2025-11-14 20:54:58,401 - INFO - Moved: AppIcons.zip to Archives
+2025-11-14 20:54:58,405 - INFO - Moved: Article 8 - Self-realisation - The Supreme Goal in Sanathana Dharma (1).pdf to Documents
+2025-11-14 20:54:58,408 - INFO - Moved: Article 8 - Self-realisation - The Supreme Goal in Sanathana Dharma (2).pdf to Documents
+2025-11-14 20:54:58,411 - INFO - Moved: Article 8 - Self-realisation - The Supreme Goal in Sanathana Dharma.pdf to Documents
+2025-11-14 20:54:58,415 - INFO - Moved: Ashwini (1).pdf to Documents
+2025-11-14 20:54:58,418 - INFO - Moved: Ashwini.pdf to Documents
+2025-11-14 20:54:58,420 - INFO - Moved: auth-10-finished.zip to Archives
+2025-11-14 20:54:58,424 - INFO - Moved: Auto Insurance.postman_collection_final.json to others
+2025-11-14 20:54:58,427 - INFO - Moved: auto new 2.jpg to Images
+2025-11-14 20:54:58,430 - INFO - Moved: auto new.jpg to Images
+2025-11-14 20:54:58,433 - INFO - Moved: auto-loan-react.zip to Archives
+2025-11-14 20:54:58,435 - INFO - Moved: auto1.jpg to Images
+2025-11-14 20:54:58,438 - INFO - Moved: auto2.jpg to Images
+2025-11-14 20:54:58,440 - INFO - Moved: Autofin Staging.postman_environment.json to others
+2025-11-14 20:54:58,443 - INFO - Moved: AWSCLIV2-2.0.30.msi to others
+2025-11-14 20:54:58,446 - INFO - Moved: Backend+Roadmap.pdf to Documents
+2025-11-14 20:54:58,448 - INFO - Moved: bca 2nd sem.pdf to Documents
+2025-11-14 20:54:58,451 - INFO - Moved: BCA Final Syllabus -2024-25.pdf to Documents
+2025-11-14 20:54:58,453 - INFO - Moved: bca2nd sem.pdf to Documents
+2025-11-14 20:54:58,456 - INFO - Moved: bca2nd.docx to Documents
+2025-11-14 20:54:58,460 - INFO - Moved: BCA_III_IV_SEP_Syllabus_2024 (1).pdf to Documents
+2025-11-14 20:54:58,462 - INFO - Moved: BCA_III_IV_SEP_Syllabus_2024.pdf to Documents
+2025-11-14 20:54:58,466 - INFO - Moved: Bipin logo_new.pdf to Documents
+2025-11-14 20:54:58,469 - INFO - Moved: birthdays.db to others
+2025-11-14 20:54:58,471 - INFO - Moved: boeing.pdf to Documents
+2025-11-14 20:54:58,473 - INFO - Moved: bsc 1st sem revalation.pdf to Documents
+2025-11-14 20:54:58,476 - INFO - Moved: bun.lockb to others
+2025-11-14 20:54:58,478 - INFO - Moved: bus1.jpg to Images
+2025-11-14 20:54:58,480 - INFO - Moved: bus2.jpg to Images
+2025-11-14 20:54:58,483 - INFO - Moved: Business plan final (1).pptx to others
+2025-11-14 20:54:58,484 - INFO - Moved: c programs (1).pdf to Documents
+2025-11-14 20:54:58,487 - INFO - Moved: c programs (2).pdf to Documents
+2025-11-14 20:54:58,489 - INFO - Moved: c programs.pdf to Documents
+2025-11-14 20:54:58,492 - INFO - Moved: c++ lab programs BCA 2nd sem (1).docx to Documents
+2025-11-14 20:54:58,495 - INFO - Moved: Car Buy.zip to Archives
+2025-11-14 20:54:58,498 - INFO - Moved: Cat Before Coffee After Coffee Two Photos And Text Meme.png to Images
+2025-11-14 20:54:58,502 - INFO - Moved: CERTIFICATE OF INCORPORATION.PDF to Documents
+2025-11-14 20:54:58,504 - INFO - Moved: ChatGPT Image Jul 14, 2025, 09_36_31 AM.png to Images
+2025-11-14 20:54:58,508 - INFO - Moved: ChatGPT Image Jul 14, 2025, 09_53_17 AM.png to Images
+2025-11-14 20:54:58,511 - INFO - Moved: Cheer Up.mp4 to Videos
+2025-11-14 20:54:58,514 - INFO - Moved: chess-app.zip to Archives
+2025-11-14 20:54:58,517 - INFO - Moved: ChromeSetup.exe to others
+2025-11-14 20:54:58,521 - INFO - Moved: Class11_Biology_Ch6_to_22.xlsx to others
+2025-11-14 20:54:58,524 - INFO - Moved: Class11_Biology_Ch6_to_22_Corrected.xlsx to others
+2025-11-14 20:54:58,528 - INFO - Moved: Class11_Physics_Syllabus_Detailed.xlsx to others
+2025-11-14 20:54:58,531 - INFO - Moved: Class12_Biology_Chapters_Topics_Subtopics.xlsx to others
+2025-11-14 20:54:58,535 - INFO - Moved: Class12_Physics_Ch6to14.xlsx to others
+2025-11-14 20:54:58,539 - INFO - Moved: client-doing-hair-cut-barber-shop-salon.jpg to Images
+2025-11-14 20:54:58,543 - INFO - Moved: close-up-portrait-serious-man-with-shaving-foam.jpg to Images
+2025-11-14 20:54:58,546 - INFO - Moved: CodeQuest.zip to Archives
+2025-11-14 20:54:58,550 - INFO - Moved: code_20210907.zip to Archives
+2025-11-14 20:54:58,552 - INFO - Moved: commerce (1).zip to Archives
+2025-11-14 20:54:58,555 - INFO - Moved: commerce (2).zip to Archives
+2025-11-14 20:54:58,558 - INFO - Moved: commerce.zip to Archives
+2025-11-14 20:54:58,560 - INFO - Moved: converted_images_all.zip to Archives
+2025-11-14 20:54:58,563 - INFO - Moved: create a starting image frame which include name loopixi or something with nice animation and background to it.jpg to Images
+2025-11-14 20:54:58,566 - INFO - Moved: cyril.jpg to Images
+2025-11-14 20:54:58,569 - INFO - Moved: dart-overview.pdf to Documents
+2025-11-14 20:54:58,573 - INFO - Moved: data entry clerical assistant job.txt to Documents
+2025-11-14 20:54:58,575 - INFO - Moved: data Entry quality control job.txt to Documents
+2025-11-14 20:54:58,578 - INFO - Moved: Data Entry specilaist job.txt to Documents
+2025-11-14 20:54:58,580 - INFO - Moved: Data_Engineering_Roadmap.pdf to Documents
+2025-11-14 20:54:58,583 - INFO - Moved: Data_Engineering_Roadmap_Self_Paced.pdf to Documents
+2025-11-14 20:54:58,585 - INFO - Moved: DBMS LAB 2ND SEM (1).docx to Documents
+2025-11-14 20:54:58,588 - INFO - Moved: DBMS LAB 2ND SEM.docx to Documents
+2025-11-14 20:54:58,591 - INFO - Moved: debug.log to others
+2025-11-14 20:54:58,593 - INFO - Moved: deepa.jpg to Images
+2025-11-14 20:54:58,596 - INFO - Moved: Description of business idea.docx to Documents
+2025-11-14 20:54:58,599 - INFO - Moved: Designing Data-Intensive Applications - Martin Kleppmann.pdf to Documents
+2025-11-14 20:54:58,601 - INFO - Moved: desktop.ini to others
+2025-11-14 20:54:58,604 - INFO - Moved: DiscordSetup.exe to others
+2025-11-14 20:54:58,607 - INFO - Moved: DOC-20250519-WA0008. (1).docx to Documents
+2025-11-14 20:54:58,609 - INFO - Moved: DOC-20250519-WA0008..docx to Documents
+2025-11-14 20:54:58,610 - INFO - Moved: Docker Desktop Installer.exe to others
+2025-11-14 20:54:58,613 - INFO - Moved: DocScanner 09-Feb-2023 7-33 PM.pdf to Documents
+2025-11-14 20:54:58,615 - INFO - Moved: DocScanner 27 May 2025 1-05\u202fpm.pdf to Documents
+2025-11-14 20:54:58,620 - INFO - Moved: DocScanner Jul 19, 2025 12-39 PM.pdf to Documents
+2025-11-14 20:54:58,621 - INFO - Moved: download-resume.pdf to Documents
+2025-11-14 20:54:58,624 - INFO - Moved: drawSQL-mysql-export-2024-12-18.sql to others
+2025-11-14 20:54:58,626 - INFO - Moved: DSA by Shradha Didi & Aman Bhaiya - DSA in 2.5 Months.pdf to Documents
+2025-11-14 20:54:58,629 - INFO - Moved: DSA by Shradha Didi & Aman Bhaiya.xlsx to others
+2025-11-14 20:54:58,633 - INFO - Moved: EAadhaar_0821413450077820220107114523_0401202319335.pdf to Documents
+2025-11-14 20:54:58,636 - INFO - Moved: ec2 tutorial.pem to others
+2025-11-14 20:54:58,638 - INFO - Moved: edge2edge-media-x21KgBfOd_4-unsplash.jpg to Images
+2025-11-14 20:54:58,641 - INFO - Moved: edited_image.png to Images
+2025-11-14 20:54:58,644 - INFO - Moved: epm_free_installer.17441033387731b292.exe to others
+2025-11-14 20:54:58,645 - INFO - Moved: Expenditure Model (1).xlsx to others
+2025-11-14 20:54:58,648 - INFO - Moved: Expenditure Model (2).xlsx to others
+2025-11-14 20:54:58,651 - INFO - Moved: Expenditure Model.xlsx to others
+2025-11-14 20:54:58,653 - INFO - Moved: Expense Tracker (1).pdf to Documents
+2025-11-14 20:54:58,656 - INFO - Moved: export.json to others
+2025-11-14 20:54:58,659 - INFO - Moved: Fast api.pdf to Documents
+2025-11-14 20:54:58,661 - INFO - Moved: favicon_io (1).zip to Archives
+2025-11-14 20:54:58,664 - INFO - Moved: Feedback PRD (1).pdf to Documents
+2025-11-14 20:54:58,666 - INFO - Moved: Feedback PRD.pdf to Documents
+2025-11-14 20:54:58,668 - INFO - Moved: FigmaSetup.exe to others
+2025-11-14 20:54:58,670 - INFO - Moved: filmora-idco_setup_full1901.exe to others
+2025-11-14 20:54:58,673 - INFO - Moved: Final 18-20 All India Agri Start-up Convention-2022 (2) (4).pdf to Documents
+2025-11-14 20:54:58,676 - INFO - Moved: firebase-01-starting-setup.zip to Archives
+2025-11-14 20:54:58,679 - INFO - Moved: flask learning main.pdf to Documents
+2025-11-14 20:54:58,681 - INFO - Moved: flask learning.pdf to Documents
+2025-11-14 20:54:58,684 - INFO - Moved: flot property.html to others
+2025-11-14 20:54:58,687 - INFO - Moved: flutter-old-and-new-buttons.pdf to Documents
+2025-11-14 20:54:58,689 - INFO - Moved: flutter-widget-types-slide.pdf to Documents
+2025-11-14 20:54:58,691 - INFO - Moved: Form No 11B SITE (1).doc to others
+2025-11-14 20:54:58,693 - INFO - Moved: Form No 11B SITE (2).doc to others
+2025-11-14 20:54:58,695 - INFO - Moved: Form No 11B SITE (3).doc to others
+2025-11-14 20:54:58,698 - INFO - Moved: Form No 11B SITE.doc to others
+2025-11-14 20:54:58,701 - INFO - Moved: Founders Video.mp4 to Videos
+2025-11-14 20:54:58,703 - INFO - Moved: Gagandeep.jpg to Images
+2025-11-14 20:54:58,705 - INFO - Moved: gajanand.jpg to Images
+2025-11-14 20:54:58,709 - INFO - Moved: games_preview.html to others
+2025-11-14 20:54:58,712 - INFO - Moved: Geographic_Information_System_for_Booking_Beauty_S.pdf to Documents
+2025-11-14 20:54:58,714 - INFO - Moved: GitHubDesktopSetup-x64.exe to others
+2025-11-14 20:54:58,715 - INFO - Moved: harish.jpg to Images
+2025-11-14 20:54:58,717 - INFO - Moved: Head First Design Patterns - U-Cursos ( PDFDrive ).pdf to Documents
+2025-11-14 20:54:58,719 - INFO - Moved: hello.html to others
+2025-11-14 20:54:58,722 - INFO - Moved: hoard1.jpg to Images
+2025-11-14 20:54:58,725 - INFO - Moved: hoard2.jpg to Images
+2025-11-14 20:54:58,727 - INFO - Moved: Home Page.html to others
+2025-11-14 20:54:58,729 - INFO - Moved: home_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24.png to Images
+2025-11-14 20:54:58,731 - INFO - Moved: Hospital Data entry clerk job.txt to Documents
+2025-11-14 20:54:58,734 - INFO - Moved: http-01-send-post-without-response.zip to Archives
+2025-11-14 20:54:58,736 - INFO - Moved: http-02-use-post-response.zip to Archives
+2025-11-14 20:54:58,738 - INFO - Moved: http-03-loading-spinner.zip to Archives
+2025-11-14 20:54:58,740 - INFO - Moved: http-04-error-handling.zip to Archives
+2025-11-14 20:54:58,743 - INFO - Moved: http-05-async-await.zip to Archives
+2025-11-14 20:54:58,745 - INFO - Moved: http-06-fetch-get-products.zip to Archives
+2025-11-14 20:54:58,747 - INFO - Moved: http-07-pull-to-refresh.zip to Archives
+2025-11-14 20:54:58,750 - INFO - Moved: http-08-delete-and-optimistic-updating.zip to Archives
+2025-11-14 20:54:58,752 - INFO - Moved: http-09-fav-status-and-orders.zip to Archives
+2025-11-14 20:54:58,754 - INFO - Moved: http-10-finished.zip to Archives
+2025-11-14 20:54:58,757 - INFO - Moved: I Sem Final C Programs PART-A and PART-B (1).pdf to Documents
+2025-11-14 20:54:58,759 - INFO - Moved: I Sem Final C Programs PART-A and PART-B.pdf to Documents
+2025-11-14 20:54:58,762 - INFO - Moved: Icon.jpg to Images
+2025-11-14 20:54:58,764 - INFO - Moved: ic_launcher (1).zip to Archives
+2025-11-14 20:54:58,767 - INFO - Moved: ic_launcher.zip to Archives
+2025-11-14 20:54:58,769 - INFO - Moved: ideaIC-2022.3.exe to others
+2025-11-14 20:54:58,771 - INFO - Moved: IMG-20180827-WA0075.jpg to Images
+2025-11-14 20:54:58,773 - INFO - Moved: IMG_20161109_190949312_1.jpg to Images
+2025-11-14 20:54:58,777 - INFO - Moved: IMG_20200331_083935.jpg to Images
+2025-11-14 20:54:58,780 - INFO - Moved: IMG_20220108_181246.jpg to Images
+2025-11-14 20:54:58,783 - INFO - Moved: IMG_20220108_182140.jpg to Images
+2025-11-14 20:54:58,786 - INFO - Moved: in.ac.gug-DGMST-2024U04AW21S0079V.pdf to Documents
+2025-11-14 20:54:58,790 - INFO - Moved: in.ac.gug-DGMST-2024U04AW21S0079VI.pdf to Documents
+2025-11-14 20:54:58,793 - INFO - Moved: Independance.pdf to Documents
+2025-11-14 20:54:58,796 - INFO - Moved: index .html to others
+2025-11-14 20:54:58,799 - INFO - Moved: input-02-showdialog.zip to Archives
+2025-11-14 20:54:58,803 - INFO - Moved: input-03-empty-edit-product-screen.zip to Archives
+2025-11-14 20:54:58,806 - INFO - Moved: input-04-managing-focus.zip to Archives
+2025-11-14 20:54:58,809 - INFO - Moved: input-05-description-field.zip to Archives
+2025-11-14 20:54:58,812 - INFO - Moved: input-06-image-input.zip to Archives
+2025-11-14 20:54:58,815 - INFO - Moved: input-08-validation.zip to Archives
+2025-11-14 20:54:58,819 - INFO - Moved: input-09-finished.zip to Archives
+2025-11-14 20:54:58,822 - INFO - Moved: Install-Free Fire MAX-GooglePlayGames-Beta (1).exe to others
+2025-11-14 20:54:58,824 - INFO - Moved: Install-Free Fire MAX-GooglePlayGames-Beta (2).exe to others
+2025-11-14 20:54:58,828 - INFO - Moved: Install-Free Fire MAX-GooglePlayGames-Beta (3).exe to others
+2025-11-14 20:54:58,831 - INFO - Moved: Install-Free Fire MAX-GooglePlayGames-Beta (4).exe to others
+2025-11-14 20:54:58,834 - INFO - Moved: Install-Free Fire MAX-GooglePlayGames-Beta.exe to others
+2025-11-14 20:54:58,838 - INFO - Moved: Jagdish (1).pdf to Documents
+2025-11-14 20:54:58,841 - INFO - Moved: Jagdish 12 Week Plan.pdf to Documents
+2025-11-14 20:54:58,843 - INFO - Moved: Jagdish.pdf to Documents
+2025-11-14 20:54:58,846 - INFO - Moved: Jagdish_Hanamshetty_Resume.docx to Documents
+2025-11-14 20:54:58,850 - INFO - Moved: Jagdish_Hanamshetty_Resume.pdf to Documents
+2025-11-14 20:54:58,853 - INFO - Moved: Jaggu result.pdf to Documents
+2025-11-14 20:54:58,856 - INFO - Moved: JD-Mignon.docx to Documents
+2025-11-14 20:54:58,859 - INFO - Moved: jdk-17_windows-x64_bin.exe to others
+2025-11-14 20:54:58,862 - INFO - Moved: Jenny.png to Images
+2025-11-14 20:54:58,864 - INFO - Moved: Job.txt to Documents
+2025-11-14 20:54:58,872 - INFO - Moved: License-Plate-Recognition-main.zip to Archives
+2025-11-14 20:54:58,875 - INFO - Moved: LM-Studio-0.3.23-3-x64.exe to others
+2025-11-14 20:54:58,878 - INFO - Moved: lok man1.jpg to Images
+2025-11-14 20:54:58,881 - INFO - Moved: lokman2.jpg to Images
+2025-11-14 20:54:58,883 - INFO - Moved: look wk.jpg to Images
+2025-11-14 20:54:58,886 - INFO - Moved: lubuntu-18.04-alternate-i386.iso to others
+2025-11-14 20:54:58,890 - INFO - Moved: M001_proof_of_completion.jfif to others
+2025-11-14 20:54:58,893 - INFO - Moved: magazine copy.docx to Documents
+2025-11-14 20:54:58,896 - INFO - Moved: mail (1).zip to Archives
+2025-11-14 20:54:58,899 - INFO - Moved: mail.zip to Archives
+2025-11-14 20:54:58,903 - INFO - Moved: mainpage.png to Images
+2025-11-14 20:54:58,907 - INFO - Moved: Manthan Reg.No-52.pdf to Documents
+2025-11-14 20:54:58,910 - INFO - Moved: manthan Souvenir_52 (1).docx to Documents
+2025-11-14 20:54:58,913 - INFO - Moved: manthan Souvenir_52.docx to Documents
+2025-11-14 20:54:58,918 - INFO - Moved: MANTHAN-2022 BP template.pptx to others
+2025-11-14 20:54:58,921 - INFO - Moved: meals–app-sketch.png to Images
+2025-11-14 20:54:58,923 - INFO - Moved: menu_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24.png to Images
+2025-11-14 20:54:58,926 - INFO - Moved: Mignon Business Model (1).png to Images
+2025-11-14 20:54:58,930 - INFO - Moved: Mignon Business Model.png to Images
+2025-11-14 20:54:58,933 - INFO - Moved: Mignon latest Pitch.pdf to Documents
+2025-11-14 20:54:58,938 - INFO - Moved: Mignon Pitch.mp4 to Videos
+2025-11-14 20:54:58,941 - INFO - Moved: mignon-push-firebase-adminsdk-gmdfb-a6c33e19b5.json to others
+2025-11-14 20:54:58,945 - INFO - Moved: Mignon.pdf to Documents
+2025-11-14 20:54:58,949 - INFO - Moved: mixkit-pop-track-05-731.mp3 to others
+2025-11-14 20:54:58,954 - INFO - Moved: mockrocket-capture.png to Images
+2025-11-14 20:54:58,958 - INFO - Moved: modern-professional-resume.txt to Documents
+2025-11-14 20:54:58,962 - INFO - Moved: mostafa-meraji-4nK2vL1WIsQ-unsplash.jpg to Images
+2025-11-14 20:54:58,971 - INFO - Moved: MovaviSlideshowMakerSetupE_Wz28v2f_.exe to others
+2025-11-14 20:54:58,975 - INFO - Moved: movie.png.pdf to Documents
+2025-11-14 20:54:58,981 - INFO - Moved: movie.png.png to Images
+2025-11-14 20:54:58,986 - INFO - Moved: ms-python.python-2025.2.0@linux-x64.vsix to others
+2025-11-14 20:54:58,990 - INFO - Moved: MSME Hackathon - MIGNON.pdf to Documents
+2025-11-14 20:54:58,993 - INFO - Moved: Multi_Nudi_Setup.exe to others
+2025-11-14 20:54:58,997 - INFO - Moved: native-01-starting-setup.zip to Archives
+2025-11-14 20:54:59,001 - INFO - Moved: native-02-places-list-and-provider.zip to Archives
+2025-11-14 20:54:59,004 - INFO - Moved: native-03-image-picker.zip to Archives
+2025-11-14 20:54:59,013 - INFO - Moved: Networking @ TiE.docx to Documents
+2025-11-14 20:54:59,017 - INFO - Moved: New Doc 2018-03-26_1.jpg to Images
+2025-11-14 20:54:59,022 - INFO - Moved: New.pdf to Documents
+2025-11-14 20:54:59,025 - INFO - Moved: new_user_credentials (1).csv to others
+2025-11-14 20:54:59,034 - INFO - Moved: new_user_credentials.csv to others
+2025-11-14 20:54:59,038 - INFO - Moved: nextjs-ecommerce-template-main.zip to Archives
+2025-11-14 20:54:59,042 - INFO - Moved: nios marks sheet.pdf to Documents
+2025-11-14 20:54:59,048 - INFO - Moved: node-v22.14.0-x64 (1).msi to others
+2025-11-14 20:54:59,052 - INFO - Moved: oopc++.pdf to Documents
+2025-11-14 20:54:59,057 - INFO - Moved: park1.jpg to Images
+2025-11-14 20:54:59,061 - INFO - Moved: park2.jpg to Images
+2025-11-14 20:54:59,064 - INFO - Moved: parking new 2.jpg to Images
+2025-11-14 20:54:59,068 - INFO - Moved: parking new.jpg to Images
+2025-11-14 20:54:59,072 - INFO - Moved: password.txt to Documents
+2025-11-14 20:54:59,076 - INFO - Moved: Pass_1234_Setup.zip to Archives
+2025-11-14 20:54:59,079 - INFO - Moved: Patent.docx to Documents
+2025-11-14 20:54:59,082 - INFO - Moved: Payment Receipt.pdf to Documents
+2025-11-14 20:54:59,085 - INFO - Moved: PDF-Guide-Node-Andrew-Mead-v3 (1).pdf to Documents
+2025-11-14 20:54:59,090 - INFO - Moved: pdf2doc (1).zip to Archives
+2025-11-14 20:54:59,094 - INFO - Moved: pdf2doc.zip to Archives
+2025-11-14 20:54:59,098 - INFO - Moved: pexels-adrian-agpasa-11419398.jpg to Images
+2025-11-14 20:54:59,102 - INFO - Moved: pexels-cottonbro-studio-3993320.jpg to Images
+2025-11-14 20:54:59,106 - INFO - Moved: pexels-delbeautybox-705255.jpg to Images
+2025-11-14 20:54:59,112 - INFO - Moved: pexels-nikolaos-dimou-1319459.jpg to Images
+2025-11-14 20:54:59,116 - INFO - Moved: pexels-pixabay-247676.jpg to Images
+2025-11-14 20:54:59,120 - INFO - Moved: pexels-thgusstavo-santana-1813272.jpg to Images
+2025-11-14 20:54:59,124 - INFO - Moved: photo_2022-11-17_19-23-19.v1.jpg to Images
+2025-11-14 20:54:59,127 - INFO - Moved: Physics-11-20250629T102906Z-1-001.zip to Archives
+2025-11-14 20:54:59,131 - INFO - Moved: picture.jpg to Images
+2025-11-14 20:54:59,136 - INFO - Moved: Pitch Deck.png to Images
+2025-11-14 20:54:59,140 - INFO - Moved: Prasannakumar S - Resume (1).docx to Documents
+2025-11-14 20:54:59,144 - INFO - Moved: Prasannakumar S - Resume.docx to Documents
+2025-11-14 20:54:59,149 - INFO - Moved: privacy-engineering-abstract-concept-illustration.zip to Archives
+2025-11-14 20:54:59,153 - INFO - Moved: private.key to others
+2025-11-14 20:54:59,158 - INFO - Moved: Product Requirements Document (PRD) (1) (1).pdf to Documents
+2025-11-14 20:54:59,162 - INFO - Moved: Product Requirements Document (PRD) (1).pdf to Documents
+2025-11-14 20:54:59,166 - INFO - Moved: Product Requirements Document (PRD) for GitHub User Activity CLI.pdf to Documents
+2025-11-14 20:54:59,171 - INFO - Moved: Product Requirements Document (PRD) for TMDB CLI (1) (1).pdf to Documents
+2025-11-14 20:54:59,175 - INFO - Moved: Product Requirements Document (PRD) for TMDB CLI (1).pdf to Documents
+2025-11-14 20:54:59,179 - INFO - Moved: Product Requirements Document (PRD) for Weather API.pdf to Documents
+2025-11-14 20:54:59,184 - INFO - Moved: Project Rinkya.pdf to Documents
+2025-11-14 20:54:59,188 - INFO - Moved: PRUTHVIRAJ.pdf to Documents
+2025-11-14 20:54:59,191 - INFO - Moved: python-3.12.0-amd64.exe to others
+2025-11-14 20:54:59,194 - INFO - Moved: python-3.12.2-amd64.exe.asc to others
+2025-11-14 20:54:59,197 - INFO - Moved: python-3.12.2-amd64.exe.sigstore to others
+2025-11-14 20:54:59,200 - INFO - Moved: python-3.13-docs-pdf-a4.zip to Archives
+2025-11-14 20:54:59,205 - INFO - Moved: python-3.13.2-amd64 (1).exe to others
+2025-11-14 20:54:59,209 - INFO - Moved: python-3.13.2-amd64.exe to others
+2025-11-14 20:54:59,213 - INFO - Moved: RAicon.png to Images
+2025-11-14 20:54:59,216 - INFO - Moved: rakata vilapa summary.pdf to Documents
+2025-11-14 20:54:59,221 - INFO - Moved: raphael-lovaski-pxax5WuM7eY-unsplash.jpg to Images
+2025-11-14 20:54:59,225 - INFO - Moved: README.md to others
+2025-11-14 20:54:59,228 - INFO - Moved: real-apps-11-listview-builder.zip to Archives
+2025-11-14 20:54:59,231 - INFO - Moved: real-apps-14-added-fonts-and-images.zip to Archives
+2025-11-14 20:54:59,237 - INFO - Moved: real-apps-18-finished.zip to Archives
+2025-11-14 20:54:59,241 - INFO - Moved: Reg Numbers of MANTHAN-2022.xlsx to others
+2025-11-14 20:54:59,245 - INFO - Moved: renukeshp cv2 (1).pdf to Documents
+2025-11-14 20:54:59,248 - INFO - Moved: renukeshp cv2.pdf to Documents
+2025-11-14 20:54:59,260 - INFO - Moved: Research+++Prioritization+Resource.fig to others
+2025-11-14 20:54:59,262 - INFO - Moved: resp-07-finished.zip to Archives
+2025-11-14 20:54:59,264 - INFO - Moved: resume (1).pdf to Documents
+2025-11-14 20:54:59,267 - INFO - Moved: resume (2).pdf to Documents
+2025-11-14 20:54:59,269 - INFO - Moved: Resume-Sunil-Hanamshetty.pdf to Documents
+2025-11-14 20:54:59,271 - INFO - Moved: resume.pdf to Documents
+2025-11-14 20:54:59,273 - INFO - Moved: rufus-4.11.exe to others
+2025-11-14 20:54:59,274 - INFO - Moved: Sachin application.pdf to Documents
+2025-11-14 20:54:59,276 - INFO - Moved: Sakkubai Sonnad resume (1)-2.docx to Documents
+2025-11-14 20:54:59,279 - INFO - Moved: salon.pdf to Documents
+2025-11-14 20:54:59,281 - INFO - Moved: SAVE_20200601_192829.jpg to Images
+2025-11-14 20:54:59,284 - INFO - Moved: Scan1000211.JPG to Images
+2025-11-14 20:54:59,286 - INFO - Moved: Scratch Project.sb3 to others
+2025-11-14 20:54:59,288 - INFO - Moved: search.zip to Archives
+2025-11-14 20:54:59,291 - INFO - Moved: selfstudys_com_file (11).pdf to Documents
+2025-11-14 20:54:59,293 - INFO - Moved: SeoImageLinker.zip to Archives
+2025-11-14 20:54:59,295 - INFO - Moved: SeoOptimize.zip to Archives
+2025-11-14 20:54:59,298 - INFO - Moved: sep bca 1 C lab manual.docx to Documents
+2025-11-14 20:54:59,300 - INFO - Moved: serene-mountain-lake-wallpaper.jpg to Images
+2025-11-14 20:54:59,303 - INFO - Moved: Setup_SimpleStickyNotes.exe to others
+2025-11-14 20:54:59,306 - INFO - Moved: shadcn-ui-updated-env.zip to Archives
+2025-11-14 20:54:59,311 - INFO - Moved: shadcn-ui.zip to Archives
+2025-11-14 20:54:59,314 - INFO - Moved: Shiva-Wallpaper-adiyogi-112ft.jpg to Images
+2025-11-14 20:54:59,316 - INFO - Moved: shop.html to others
+2025-11-14 20:54:59,319 - INFO - Moved: sign.png to Images
+2025-11-14 20:54:59,322 - INFO - Moved: Sitemap+Resource.fig to others
+2025-11-14 20:54:59,324 - INFO - Moved: spacedesk_driver_Win_10_64_v2203.msi to others
+2025-11-14 20:54:59,326 - INFO - Moved: special data typing project.txt to Documents
+2025-11-14 20:54:59,328 - INFO - Moved: srilekha.jpg to Images
+2025-11-14 20:54:59,330 - INFO - Moved: sunil logo 2.jpg to Images
+2025-11-14 20:54:59,332 - INFO - Moved: sunil logo vd.jpg to Images
+2025-11-14 20:54:59,334 - INFO - Moved: sunil logo.jpg to Images
+2025-11-14 20:54:59,336 - INFO - Moved: Sunil+Hanamshetty+Resume(1).pdf to Documents
+2025-11-14 20:54:59,340 - INFO - Moved: sunil-logo-2.ico to others
+2025-11-14 20:54:59,342 - INFO - Moved: sunil-logo.ico to others
+2025-11-14 20:54:59,344 - INFO - Moved: Sunil.jpg to Images
+2025-11-14 20:54:59,346 - INFO - Moved: SunilHanamshetty.pdf to Documents
+2025-11-14 20:54:59,349 - INFO - Moved: sunil_accessKeys.csv to others
+2025-11-14 20:54:59,350 - INFO - Moved: sunil_codecommit_credentials.csv to others
+2025-11-14 20:54:59,352 - INFO - Moved: sunil_logo_2-removebg-preview.ico to others
+2025-11-14 20:54:59,354 - INFO - Moved: sunil_logo_2-removebg-preview.png to Images
+2025-11-14 20:54:59,357 - INFO - Moved: sunil_logo_vd-removebg-preview.png to Images
+2025-11-14 20:54:59,358 - INFO - Moved: SuperDisplay_Installer_v1.1.10.exe to others
+2025-11-14 20:54:59,361 - INFO - Moved: Sushma_Mignon  Offer Lette.docx to Documents
+2025-11-14 20:54:59,363 - INFO - Moved: Swipe Internship Assignment — AI-Powered Interview Assistant (1).pdf to Documents
+2025-11-14 20:54:59,366 - INFO - Moved: Swipe Internship Assignment — AI-Powered Interview Assistant.pdf to Documents
+2025-11-14 20:54:59,368 - INFO - Moved: Task Tracker CLI - PRD.pdf to Documents
+2025-11-14 20:54:59,371 - INFO - Moved: Tech Placements.pdf to Documents
+2025-11-14 20:54:59,372 - INFO - Moved: tesseract-ocr-w64-setup-5.5.0.20241111.exe to others
+2025-11-14 20:54:59,374 - INFO - Moved: test.db to others
+2025-11-14 20:54:59,376 - INFO - Moved: tic-tac-toe-app.zip to Archives
+2025-11-14 20:54:59,379 - INFO - Moved: Timeline of C++ Course.pdf to Documents
+2025-11-14 20:54:59,382 - INFO - Moved: tommy  (1).html to others
+2025-11-14 20:54:59,385 - INFO - Moved: tommy .html to others
+2025-11-14 20:54:59,387 - INFO - Moved: tony-litvyak-TRHGHOEZ7Zs-unsplash.jpg to Images
+2025-11-14 20:54:59,389 - INFO - Moved: towfiqu-barbhuiya-oZuBNC-6E2s-unsplash.jpg to Images
+2025-11-14 20:54:59,391 - INFO - Moved: traffic.jpg to Images
+2025-11-14 20:54:59,394 - INFO - Moved: traffic1.jpg to Images
+2025-11-14 20:54:59,399 - INFO - Moved: traffic2.jpg to Images
+2025-11-14 20:54:59,402 - INFO - Moved: TreeCPP+Complete.pdf to Documents
+2025-11-14 20:54:59,404 - INFO - Moved: Triveni - chapterwise content MCQ - biology11 (1).csv to others
+2025-11-14 20:54:59,408 - INFO - Moved: Triveni - chapterwise content MCQ - biology11.csv to others
+2025-11-14 20:54:59,410 - INFO - Moved: Triveni - chapterwise content MCQ - biology12.csv to others
+2025-11-14 20:54:59,413 - INFO - Moved: Triveni - chapterwise content MCQ - chemistry11.csv to others
+2025-11-14 20:54:59,416 - INFO - Moved: Triveni - chapterwise content MCQ - chemistry12.csv to others
+2025-11-14 20:54:59,417 - INFO - Moved: Triveni - chapterwise content MCQ - maths11.csv to others
+2025-11-14 20:54:59,420 - INFO - Moved: Triveni - chapterwise content MCQ - maths12.csv to others
+2025-11-14 20:54:59,422 - INFO - Moved: Triveni - chapterwise content MCQ - physics11.csv to others
+2025-11-14 20:54:59,425 - INFO - Moved: Triveni - chapterwise content MCQ - physics12.csv to others
+2025-11-14 20:54:59,427 - INFO - Moved: twilio_2FA_recovery_code.txt to Documents
+2025-11-14 20:54:59,430 - INFO - Moved: Typography+Resource.fig to others
+2025-11-14 20:54:59,433 - INFO - Moved: UI UX Developer.pdf to Documents
+2025-11-14 20:54:59,436 - INFO - Moved: UnityHubSetup.exe to others
+2025-11-14 20:54:59,438 - INFO - Moved: Untitled design.png to Images
+2025-11-14 20:54:59,441 - INFO - Moved: Untitled document.pdf to Documents
+2025-11-14 20:54:59,444 - INFO - Moved: Untitled video - Made with Clipchamp.mp4 to Videos
+2025-11-14 20:54:59,446 - INFO - Moved: Untitled.pdf to Documents
+2025-11-14 20:54:59,449 - INFO - Moved: Untitled.png to Images
+2025-11-14 20:54:59,452 - INFO - Moved: Untitled.svg to others
+2025-11-14 20:54:59,454 - INFO - Moved: vaijinath.jpeg to Images
+2025-11-14 20:54:59,457 - INFO - Moved: Veereshkumar Biodata.pdf to Documents
+2025-11-14 20:54:59,459 - INFO - Moved: videoplayback.mp4 to Videos
+2025-11-14 20:54:59,461 - INFO - Moved: vignish.jpg to Images
+2025-11-14 20:54:59,462 - INFO - Moved: Vijaylaxmi's Resume-hackerresume (1).pdf to Documents
+2025-11-14 20:54:59,465 - INFO - Moved: Vijaylaxmi's Resume-hackerresume (2).pdf to Documents
+2025-11-14 20:54:59,467 - INFO - Moved: Vijaylaxmi's Resume-hackerresume (3) (1).pdf to Documents
+2025-11-14 20:54:59,469 - INFO - Moved: Vijaylaxmi's Resume-hackerresume (3).pdf to Documents
+2025-11-14 20:54:59,471 - INFO - Moved: Vijaylaxmi's Resume-hackerresume.pdf to Documents
+2025-11-14 20:54:59,473 - INFO - Moved: vijaylaxmi.html to others
+2025-11-14 20:54:59,475 - INFO - Moved: Vijaylaxmi_Hanamshetty_Resume.pdf to Documents
+2025-11-14 20:54:59,477 - INFO - Moved: Vijaylaxmi_Hanamshetty_Resume_OnePage.pdf to Documents
+2025-11-14 20:54:59,479 - INFO - Moved: vinayak photo_11zon.jpg to Images
+2025-11-14 20:54:59,481 - INFO - Moved: vinayak.JPG to Images
+2025-11-14 20:54:59,483 - INFO - Moved: vinayak_hall ticket.pdf to Documents
+2025-11-14 20:54:59,485 - INFO - Moved: vintage-barber-paper-jobs-career-concept.jpg to Images
+2025-11-14 20:54:59,488 - INFO - Moved: VSCodeUserSetup-x64-1.99.0.exe to others
+2025-11-14 20:54:59,490 - INFO - Moved: vyfD..................................html to others
+2025-11-14 20:54:59,492 - INFO - Moved: WC Invite - 9th Feb 2023.pdf to Documents
+2025-11-14 20:54:59,494 - INFO - Moved: Web capture_16-8-2022_122224_www.mignon.one.jpeg to Images
+2025-11-14 20:54:59,496 - INFO - Moved: Web capture_16-8-2022_122513_www.mignon.one.jpeg to Images
+2025-11-14 20:54:59,498 - INFO - Moved: Web capture_16-8-2022_123045_www.mignon.one.jpeg to Images
+2025-11-14 20:54:59,500 - INFO - Moved: Web capture_16-8-2022_123112_www.mignon.one.jpeg to Images
+2025-11-14 20:54:59,502 - INFO - Moved: Web capture_19-10-2022_95559_practice.geeksforgeeks.org.jpeg to Images
+2025-11-14 20:54:59,505 - INFO - Moved: Web capture_19-10-2022_95622_practice.geeksforgeeks.org.jpeg to Images
+2025-11-14 20:54:59,506 - INFO - Moved: Web-Developer-Resume-PDF-Free-Download.docx to Documents
+2025-11-14 20:54:59,509 - INFO - Moved: WhatsApp Image 2021-12-25 at 17.13.48 (1).jpeg to Images
+2025-11-14 20:54:59,512 - INFO - Moved: WhatsApp Image 2021-12-25 at 17.13.48.jpeg to Images
+2025-11-14 20:54:59,514 - INFO - Moved: WhatsApp Image 2021-12-25 at 17.27.53.jpeg to Images
+2025-11-14 20:54:59,516 - INFO - Moved: WhatsApp Image 2021-12-25 at 17.28.15.jpeg to Images
+2025-11-14 20:54:59,519 - INFO - Moved: WhatsApp Image 2022-09-29 at 3.43.18 PM.jpeg to Images
+2025-11-14 20:54:59,522 - INFO - Moved: WhatsApp Image 2022-11-15 at 6.07.47 PM.jpeg to Images
+2025-11-14 20:54:59,524 - INFO - Moved: WhatsApp Image 2023-11-28 at 4.26.31 PM.jpeg to Images
+2025-11-14 20:54:59,526 - INFO - Moved: WhatsApp Image 2024-07-14 at 4.12.27 PM.jpeg to Images
+2025-11-14 20:54:59,528 - INFO - Moved: WhatsApp Image 2024-07-14 at 4.12.28 PM (1).jpeg to Images
+2025-11-14 20:54:59,530 - INFO - Moved: WhatsApp Image 2024-07-14 at 4.12.28 PM.jpeg to Images
+2025-11-14 20:54:59,532 - INFO - Moved: WhatsApp Image 2024-07-14 at 4.12.29 PM.jpeg to Images
+2025-11-14 20:54:59,533 - INFO - Moved: WhatsApp Image 2024-07-14 at 4.12.30 PM (1).jpeg to Images
+2025-11-14 20:54:59,535 - INFO - Moved: WhatsApp Image 2024-07-14 at 4.12.30 PM.jpeg to Images
+2025-11-14 20:54:59,537 - INFO - Moved: WhatsApp Image 2024-07-14 at 4.12.31 PM.jpeg to Images
+2025-11-14 20:54:59,539 - INFO - Moved: WhatsApp Image 2025-04-30 at 10.17.27 AM.jpeg to Images
+2025-11-14 20:54:59,544 - INFO - Moved: WhatsApp Image 2025-04-30 at 9.41.15 AM.jpeg to Images
+2025-11-14 20:54:59,546 - INFO - Moved: WhatsApp Image 2025-07-01 at 5.49.38 PM.jpeg to Images
+2025-11-14 20:54:59,549 - INFO - Moved: WhatsApp Image 2025-07-01 at 5.49.39 PM (1).jpeg to Images
+2025-11-14 20:54:59,551 - INFO - Moved: WhatsApp Image 2025-07-01 at 5.49.39 PM (2).jpeg to Images
+2025-11-14 20:54:59,553 - INFO - Moved: WhatsApp Image 2025-07-01 at 5.49.39 PM.jpeg to Images
+2025-11-14 20:54:59,556 - INFO - Moved: WhatsApp Image 2025-07-01 at 5.49.40 PM.jpeg to Images
+2025-11-14 20:54:59,558 - INFO - Moved: WhatsApp Image 2025-07-05 at 7.29.27 PM.jpeg to Images
+2025-11-14 20:54:59,561 - INFO - Moved: WhatsApp Image 2025-07-15 at 11.44.01 AM.jpeg to Images
+2025-11-14 20:54:59,563 - INFO - Moved: WhatsApp Image 2025-07-15 at 11.44.02 AM.jpeg to Images
+2025-11-14 20:54:59,566 - INFO - Moved: WhatsApp Image 2025-07-16 at 2.59.01 PM.jpeg to Images
+2025-11-14 20:54:59,568 - INFO - Moved: WhatsApp Image 2025-07-17 at 1.09.42 PM.jpeg to Images
+2025-11-14 20:54:59,571 - INFO - Moved: WhatsApp Image 2025-07-25 at 12.25.50 PM.jpeg to Images
+2025-11-14 20:54:59,574 - INFO - Moved: WhatsApp Image 2025-07-25 at 12.25.51 PM.jpeg to Images
+2025-11-14 20:54:59,575 - INFO - Moved: WhatsApp Image 2025-10-25 at 9.34.43 AM.jpeg to Images
+2025-11-14 20:54:59,583 - INFO - Moved: WhatsApp Installer.exe to others
+2025-11-14 20:54:59,586 - INFO - Moved: WhatsApp Video 2025-07-14 at 5.23.12 PM.mp4 to Videos
+2025-11-14 20:54:59,588 - INFO - Moved: WhatsApp Video 2025-10-03 at 8.56.36 AM.mp4 to Videos
+2025-11-14 20:54:59,591 - INFO - Moved: wiki.zip to Archives
+2025-11-14 20:54:59,593 - INFO - Moved: Yelow Job Offer Letter.pdf to Documents
+2025-11-14 20:54:59,595 - INFO - Moved: Yoga payment.pdf to Documents
+2025-11-14 20:54:59,598 - INFO - Moved: zerotomastery.io+-+Design+Resources.pdf to Documents
+2025-11-14 20:54:59,600 - INFO - Moved: Zym payment.docx to Documents
+2025-11-14 20:54:59,602 - INFO - Moved: Zym payment.pdf to Documents
+2025-11-14 20:54:59,610 - INFO - Moved: _ Tech _ Software Developer__Description__A clean dark theme banner with glowing circuit patterns fading into a modern city skyline. Subtle code snippets (like function createFuture() { return innovation; }) are em.jpg to Images
+2025-11-14 20:54:59,612 - INFO - Moved: _16681468590048809083387004036704.png to Images
+2025-11-14 20:54:59,615 - INFO - Application started
