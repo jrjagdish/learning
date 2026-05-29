@@ -286,10 +286,86 @@
 # # With conditions
 # even_squares = (x**2 for x in range(100) if x % 2 == 0)
 # print(list(even_squares))
-def func(length):
-    for i in range(length):
-        yield i**2
+# def func(length):
+#     for i in range(length):
+#         yield i**2
 
-squares = func(10)
-for square in squares:
-    print(square)
+# squares = func(10)
+# for square in squares:
+#     print(square)
+
+# from openai import OpenAI
+
+# client = OpenAI(
+#     base_url="https://integrate.api.nvidia.com/v1",
+#     api_key=""
+# )
+
+# with client.audio.speech.with_streaming_response.create(
+#     model="nvidia/magpie-tts-multilingual",
+#     voice="Magpie-Multilingual.EN-US.Aria",
+#     input="Hello Jagdish, this is NVIDIA TTS.",
+#     response_format="wav"
+# ) as response:
+    
+#     response.stream_to_file("output.wav")
+
+# print("Saved output.wav")
+
+from openai import OpenAI
+
+client = OpenAI(
+    base_url="https://integrate.api.nvidia.com/v1",
+    api_key=""
+)
+
+PROMPT = """
+Generate a complete executable Python project.
+
+Requirements:
+- Use MoviePy, PIL, and NumPy
+- Do NOT use Manim
+- Create smooth educational animations
+- Teach Python basics visually
+- Use cinematic transitions
+- Animated text effects
+- Code highlighting effects
+- Modular clean code
+- Production-style structure
+- Output ONLY Python code
+- No markdown
+"""
+
+completion = client.chat.completions.create(
+    model="qwen/qwen3-coder-480b-a35b-instruct",
+
+    messages=[
+        {
+            "role": "user",
+            "content": PROMPT
+        }
+    ],
+
+    temperature=0.7,
+    top_p=0.8,
+    max_tokens=8192,
+    stream=True
+)
+
+# Stream directly to file (memory efficient)
+with open("generated_video.py", "w", encoding="utf-8") as f:
+
+    for chunk in completion:
+
+        if not chunk.choices:
+            continue
+
+        content = chunk.choices[0].delta.content
+
+        if content:
+            f.write(content)
+            f.flush()
+
+print("Code saved to generated_video.py") 
+
+
