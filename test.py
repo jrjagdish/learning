@@ -135,7 +135,7 @@ from PIL import Image
 
 # 1. Configuration
 # Replace with your actual NVIDIA API key from build.nvidia.com
-NVIDIA_API_KEY = "key here"
+NVIDIA_API_KEY = "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"
 
 # Corrected Endpoint with literal dot (.) for FLUX.1-dev
 API_URL = "https://ai.api.nvidia.com/v1/genai/black-forest-labs/flux.1-dev"
@@ -148,7 +148,7 @@ headers = {
 
 # Payload conforming exactly to NVIDIA's schema
 payload = {
-    "prompt": "A ruined building outside the city smog around it, ultra-realistic, highly detailed, 8k resolution",
+    "prompt": "A boy cycling beside a river ramp and dusk time and face towards camera and smiling, ultra-realistic, 8k resolution",
     "height": 1024,
     "width": 1024,
     "cfg_scale": 5,
